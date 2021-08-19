@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Baneeishaque/angular-fullstack-employee-management-client.git
+[submodule "express-server"]
+	path = express-server
+	url = https://github.com/Baneeishaque/angular-fullstack-employee-management-express-server.git
